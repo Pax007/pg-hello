@@ -21,9 +21,9 @@ function deviceInfo() {
 	
 }
 
-function info() {
+function info1() {
 
-	info =  "Pawel Grzyb. 186522,KrDUIs1011";
-	navigator.notification.alert(info);
+	info1 =  "Pawel Grzyb. 186522,KrDUIs1011";
+	navigator.notification.alert(info1);
 	
 }
